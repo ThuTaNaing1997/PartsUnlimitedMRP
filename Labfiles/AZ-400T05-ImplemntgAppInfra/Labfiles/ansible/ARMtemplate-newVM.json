@@ -123,7 +123,7 @@
                     "id": "[resourceId('Microsoft.Compute/availabilitySets', 'myAvSet')]"
                 },
                 "hardwareProfile": {
-                    "vmSize": "Standard_A0"
+                    "vmSize": "Standard_A1_V2"
                 },
                 "storageProfile": {
                     "imageReference": {
